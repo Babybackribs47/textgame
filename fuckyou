@@ -1,0 +1,7 @@
+import java.util.*;
+
+class Main{
+  Public static void main(String[] args){
+    System.out.println("Hughie Lewis and dah noose");
+  }
+}
